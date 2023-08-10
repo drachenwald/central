@@ -7,3 +7,5 @@ public/
 _data/remote/*
 _data/regnum.json
 /vendor/
+
+!.gitkeep
